@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 const { v4: uuidv4 } = require('uuid');
 
-const dbPath = path.resolve(__dirname, '../db.json');
+const dbPath = path.resolve(__dirname, '../db/db.json');
 
 router.get('/notes', (req, res) => {
     fs.readFile(dbPath, 'utf8', (err, data) => {
