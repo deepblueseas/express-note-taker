@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 const { v4: uuidv4 } = require('uuid');
 
-const dbPath = path.resolve(__dirname, '../db/db.json');
+const dbPath = path.join(__dirname, '..', 'db', 'db.json');
 
 // here we are checking the db.json to see what we already have stored for notes
 router.get('/notes', (req, res) => {
