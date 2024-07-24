@@ -1,5 +1,16 @@
 # Express.js Note Taker
 
+## Description  (from the CWRU User Story)
+The goal of this app is to provide small business owners with the ability to write and save notes.
+
+## Table of Contents
+I. [Acceptance Criteria](#acceptance-criteria-adpated-from-cwru-prompt)
+II.
+III.
+IV.
+V.
+VI. [Starter Code Credit](#starter-code-credit-httpsgithubcomcoding-boot-campminiature-eureka)
+
 ## Acceptance Criteria (adpated from CWRU prompt)
 - WHEN I open the Note Taker
     - THEN I am presented with a landing page with link to NOTES PAGE
