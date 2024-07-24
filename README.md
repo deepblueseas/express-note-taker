@@ -4,12 +4,10 @@
 The goal of this app is to provide small business owners with the ability to write and save notes.
 
 ## Table of Contents
-I. [Acceptance Criteria](#acceptance-criteria-adpated-from-cwru-prompt)
-II.
-III.
-IV.
-V.
-VI. [Starter Code Credit](#starter-code-credit-httpsgithubcomcoding-boot-campminiature-eureka)
+I. [Acceptance Criteria](#acceptance-criteria-adpated-from-cwru-prompt) <br>
+II. [Image of Working App](#image-of-working-app)<br>
+III. [Render]<br>
+IV. [Starter Code Credit](#starter-code-credit-httpsgithubcomcoding-boot-campminiature-eureka)
 
 ## Acceptance Criteria (adpated from CWRU prompt)
 - WHEN I open the Note Taker
@@ -24,6 +22,10 @@ VI. [Starter Code Credit](#starter-code-credit-httpsgithubcomcoding-boot-campmin
     - THEN that note appears in the right-hand column and a "NEW NOTE" button appears in the nav
 - WHEN I click the "NEW NOTE" button in the nav
     - THEN I am presented with empty fields to enter a new note title & text in the right-hand column, and the button disappears
+
+## Image of Working App
+![Working App](images/newnote.png)
+
 
 
 
